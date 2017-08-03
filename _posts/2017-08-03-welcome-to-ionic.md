@@ -40,5 +40,5 @@ You can get in touch with us at *support[at]ioniclabs.io* for any queries.
 
 Have fun!!
 
-[register]: https://ioniclabs.io/login
+[register]: https://ioniclabs.io/accounts/login
 
