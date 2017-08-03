@@ -14,23 +14,23 @@ For our new users you can sign up [here][register] after which you will receive 
 
 2. Create a workstation using the pod creation wizard.
 
-    ![workstation wizard]({{site.url}}/assets/wizard.png)
+    ![workstation wizard](/assets/wizard.png)
 
 
 3. Access your newly created workstation from the info box by clicking on access pod button.
 
-     ![workstation card]({{site.url}}/assets/pod-card.png)
+     ![workstation card](/assets/pod-card.png)
 
 4. You will be presented with a standard linux shell terminal as shown in the image below.  Each workstation comes pre-installed molecular simulation software. For the Gromacs workstation type gmx on the terminal to get started.
 
-    ![workstation dashboard]({{site.url}}/assets/pod-dash.png)
+    ![workstation dashboard](/assets/pod-dash.png)
 
 5. Also each workstation comes with its own file explorer through which you can easily upload or edit your files by right clicking on the items on the explorer column. Each file uploaded is instantly available on your ssh terminal workspace shown above.
 
-    ![workstation file explorer]({{site.url}}/assets/file-explorer.png)
+    ![workstation file explorer](/assets/file-explorer.png)
 
 6. For those of you who would like to edit the generated or uploaded files you can do so by double clicking on the file which opens a file editor tab as shown below.
-    ![workstation file editor]({{site.url}}/assets/file-editor.png)
+    ![workstation file editor](/assets/file-editor.png)
 
  **The next steps**
 
@@ -40,5 +40,5 @@ You can get in touch with us at *support[at]ioniclabs.io* for any queries.
 
 Have fun!!
 
-[register]: https://ioniclabs.io
+[register]: https://ioniclabs.io/login
 
