@@ -4,7 +4,8 @@ title:  "Introducing Job queues "
 date:   2017-09-17 
 categories: updates
 ---
-We now ready to announce our latest offering at Ionic Labs, **Simulation Job Queues **
+We now ready to announce our latest offering at Ionic Labs, **Simulation Job Queues**
+
 ## Creating your first Job##
 
 1. Access your account from our sign in page [here][register].
