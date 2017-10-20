@@ -29,7 +29,7 @@ The accuracy of the above energy model is an obvious limitation of force fields 
 
 Our energy equation above needs to quantify certain aspects of the system in order to truly represent a real chemical system. One of the ways of obtaining these constants is through empirical methods where the values are obtained by fitting experimental data such as infrared, Raman spectroscopy, NMR etc. For example in force field based MD, molecules are defined as a set of atoms which are held together by a simple elastic bond whose stretching can be describe by a simple harmonic function, the spring constant can be obtained from infrared or Raman spectra . The spring constant here is what is  referred to as a force field parameter.
 
-##Intramolecular energy terms
+## Intramolecular energy terms
 
 These terms describe the energy inside the molecule. This term may be decomposed to;
 
@@ -42,7 +42,7 @@ When dealing with some particular groups such as $sp_2$ hybridized carbons in ca
 $$E_{improper torsion} = \sum_{improper}\frac{k_imp}{2}[1+cos(2\omega-\pi)]$$
 
 
-##Intermolecular energy terms
+## Intermolecular energy terms
 
 These terms include energy contributions which results from molecule-molecule interactions and include the electrostatic and Van Der Waal's interactions
 
