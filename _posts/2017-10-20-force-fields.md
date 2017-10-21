@@ -49,7 +49,7 @@ These terms include energy contributions which results from molecule-molecule in
 
 $$\sum_{intermolecular} = \sum_{electrostatic}\frac{q_1q_2}{4\pi\epsilon_0r}+\sum_{vdw}[(\frac{r_0}{r_ij})^{12} - 2(\frac{r_0}{r_ij})^{6}]$$
 
-In a nutshell these are the core parts of a force field. There are many type of force field that exist in literature for different system and some of them include;
+In a nutshell these are the core parts of a force field. There are many type of force field that exist in literature for different systems and some of them include;
 
 1. AMBER
 2. CHARMM
