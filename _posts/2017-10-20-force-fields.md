@@ -41,6 +41,7 @@ When dealing with some particular groups such as $$sp_2$$ hybridized carbons in 
 
 $$E_{improper torsion} = \sum_{improper}\frac{k_imp}{2}[1+cos(2\omega-\pi)]$$
 
+Of course if we have a monoatomic system the intramolecular energy terms would all be zero.
 
 ## Intermolecular energy terms
 
