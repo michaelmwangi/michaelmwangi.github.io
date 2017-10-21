@@ -37,7 +37,7 @@ $$ E_{intramolecular}  = \sum_{bonds}\frac{1}{2}k_b(r-r_o) + \sum_{angles}\frac{
 
 The torsion energy term is required for systems where by the molecule has more than 4 atoms in a row.
 
-When dealing with some particular groups such as $sp_2$ hybridized carbons in carbonyl groups or in aromatic rings and additional term is added in-order to capture the out-of-plane motions.
+When dealing with some particular groups such as $$sp_2$$ hybridized carbons in carbonyl groups or in aromatic rings and additional term is added in-order to capture the out-of-plane motions.
 
 $$E_{improper torsion} = \sum_{improper}\frac{k_imp}{2}[1+cos(2\omega-\pi)]$$
 
