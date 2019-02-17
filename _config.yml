@@ -13,22 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ionic Labs
-email: support[at]ioniclabs.io
-description: > # this means to ignore newlines until "baseurl:"
-           Join us in the journey of taking molecular simulations to the next step. 
-           Using our platform researchers will be able to carry out molecular simulations and analysis straight
-           straight from the browser whenever wherever.
+title: Random stuff
+email: mwangimunyinyi [at] gmail com
+description: >- # this means to ignore newlines until "baseurl:"
+  This some sort of a tech diary of things that I come across/learn  everyday
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ioniclabs.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+  - jekyll-gist
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
