@@ -16,7 +16,7 @@
 title: Random stuff
 email: mwangimunyinyi [at] gmail com
 description: >- # this means to ignore newlines until "baseurl:"
-  This some sort of a tech diary of things that I come across/learn  everyday
+  This is some sort of a tech diary of things that I come across/learn  everyday
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
